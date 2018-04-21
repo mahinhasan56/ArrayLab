@@ -7,7 +7,7 @@ public class Lab1Task5
   public static void main(String[] args)
   {
     Scanner input = new Scanner(System.in);
-    int[] array = new int[15];
+    int[] array = new int[10];
     
     for (int x = 0; x < array.length; x++)
     {

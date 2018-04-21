@@ -26,3 +26,6 @@ public class Lab1Task6{
         return m;
     }
 }
+
+//output:false
+//true
